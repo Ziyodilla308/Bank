@@ -610,9 +610,15 @@ h2{
         margin: 0;
         display: block;
     }
+    .about-us{
+        width: 55%;
+    }
+    .footer{
+        width: 100%;
+    }
     .banner h1{
-        font-size: 6rem;
-        line-height: 7rem;
+        font-size: 15px;
+        line-height: 3rem;
     }
     .banner p{
        font-size: 3rem; 
