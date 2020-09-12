@@ -612,6 +612,7 @@ h2{
     }
     .about-us{
         width: 55%;
+        display: none;
     }
     .footer{
         width: 100%;
